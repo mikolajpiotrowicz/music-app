@@ -1,0 +1,3 @@
+export const TIMELINE_WIDTH = 750;
+export const TIMELINE_BALL_SIZE = 20;
+export const CAROUSEL_SINGLE_ROTATION_ANGLE = 60
