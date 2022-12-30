@@ -108,7 +108,7 @@
     "file-loader": "^6.0.0",
     "fork-ts-checker-webpack-plugin": "^4.0.3",
     "jsdom": "16.2.2",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.1",
     "prettier": "^1.19.1",
     "react-test-renderer": "16.13.1",
